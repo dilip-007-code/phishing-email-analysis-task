@@ -5,7 +5,7 @@ This task involved analyzing a sample phishing email to identify common phishing
 
 ## 📂 Files Included
 - `Screenshot (1).png`: Screenshot of the phishing email sample.
-- `report.md` / `report.pdf`: A written analysis detailing phishing indicators found in the email.
+
 
 ## 🔍 Phishing Indicators Identified
 1. **Spoofed Sender Email:** 
